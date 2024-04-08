@@ -17,7 +17,7 @@ const userSchema = new mongoose.Schema({
     },
     avatar:{
         type:String,
-        default: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+        default: "https://cdn.pixabay.com/photo/2018/04/30/13/47/wallpaper-3362712_1280.jpg",
     }
 },{timestamps : true});
 
